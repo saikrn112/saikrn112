@@ -16,6 +16,7 @@ Sai Ramana Kiran
 ---
 
 About me:
-I am a Master's student in Robotics at Worcester Polytechnic Institute
-- Prior to this I was working at Quantitative Brokers (QB) as a Senior C++ software developer
-- Currently working on Computer Vision applications Robotics
+
+- Master's student in Robotics at Worcester Polytechnic Institute
+- I was working at Quantitative Brokers (QB) as a Senior C++ software developer previoulsy
+- Currently working on Computer Vision applications for Robotics
