@@ -3,9 +3,8 @@
 <!--
 **saikrn112/saikrn112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- I am currently working on Computer Vision
+- 🔭 I’m currently working on Computer vision
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Sai Ramana Kiran 
+---
+
+About me:
+I am a Master's student in Robotics at Worcester Polytechnic Institute
+- Prior to this I was working at Quantitative Brokers (QB) as a Senior C++ software developer
+- Currently working on Computer Vision applications Robotics
