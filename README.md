@@ -23,13 +23,13 @@ About me:
 
 you can find my resume [here](https://drive.google.com/file/d/1DXmZoxv3s2oXddtaNBFp0L9NgJPcA_ci/view?usp=share_link)
 
-
+<!--
 Some of my GitHub stats below
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saikrn112&theme=gruvbox)](https://git.io/streak-stats)
 
 [![Ramana's github stats](https://github-readme-stats.vercel.app/api?username=saikrn112&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) 
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrn112&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
