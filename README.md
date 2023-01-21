@@ -21,7 +21,7 @@ About me:
 - I worked at Quantitative Brokers (QB) as a Senior C++ software developer for past 4 years
 - Currently working on Computer Vision and Deep learning applications for Robotics
 
-you can find my resume [here](https://drive.google.com/file/d/1DXmZoxv3s2oXddtaNBFp0L9NgJPcA_ci/view?usp=share_link)
+you can find my resume [here](https://saikrn112.github.io/media/CV.pdf)
 
 <!--
 Some of my GitHub stats below
