@@ -21,7 +21,7 @@ About me:
 - Currently working on Computer Vision and Deep learning applications for high fidelity reconstructions
 - Always up for interesting computer vision problems for everyday uses
 
-you can find my resume [here](https://saikrn112.github.io/CV.pdf)
+you can find my resume [here](https://saikrn112.github.io/resources/CV.pdf)
 
 <!--
 Some of my GitHub stats below
