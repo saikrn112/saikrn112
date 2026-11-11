@@ -17,11 +17,12 @@ Sai Ramana Kiran
 
 About me:
 
-- I am a Senior Engineer - Algorithms/Computational Photography
-- Currently working on Computer Vision and Deep learning applications for high fidelity reconstructions
-- Always up for interesting computer vision problems for everyday uses
+- I am a Distributed Training/Inference Engineer II at AWS
+- Before that: 3D reconstruction at the intersection of computer vision, graphics and deep learning (Quidient), computer vision on tiny aerial robots (PeAR Lab, WPI), and latency-sensitive C++ trading systems (Quantitative Brokers)
+- Lately I write about GPU kernels: [Ping, pong, multiply](https://saikrn112.github.io/blog/hopper-gemm/), an interactive walk through CUTLASS's ping-pong GEMM on H100
+- And I build tools I use every day: [Timeslice](https://saikrn112.github.io/timeslice/), a keyboard-first time tracker for the Mac and iPhone
 
-you can find my resume [here](https://saikrn112.github.io/resources/CV.pdf)
+More on my [website](https://saikrn112.github.io/); you can find my resume [here](https://saikrn112.github.io/resources/CV.pdf)
 
 <!--
 Some of my GitHub stats below
